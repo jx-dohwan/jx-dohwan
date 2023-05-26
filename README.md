@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-|NLP Project List|NLP Study List|ther Study List|
+|NLP Project List|NLP Study List|Other Study List|
 |:-----:|:-----:|:-----:|
 |[KoBART를 활용한 카카오톡 대화 요약 서비스](https://github.com/jx-dohwan/KoBART_generation_summary_service)|[BERT를 활용한 텍스트 분류](https://github.com/jx-dohwan/BERT_Text_Classification)||
 |[RoBERTa를 활용한 대화 속 감정 인식](https://github.com/jx-dohwan/RoBERTa_ERC)|[Transformer를 활용한 기계 번역](https://github.com/jx-dohwan/Transformer_machine_translation)||
