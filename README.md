@@ -1,5 +1,5 @@
 <div align="center">
- <!--
+<!--
 ### 깃허브 소개
 ---
 
@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 |[ML/DL 학습을 위한 16가지 토이 프로젝트](https://github.com/jx-dohwan/Aiffel_Exp_Project)|[밑바닥부터 시작하는 딥러닝1](https://github.com/jx-dohwan/Deep_Learning_from_Scratch_study)|[Management_bigdata_analysis](https://github.com/jx-dohwan/Management_bigdata_analysis)|
 |[소상공인 데이터를 활용한 데이터 분석](https://github.com/jx-dohwan/DATATHON)|[머신러닝 완벽 가이드](https://github.com/jx-dohwan/ML_guide)|[Object Detection과 Segmentation](https://github.com/jx-dohwan/Object_Detection-Segmentation)|
 -->
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjx-dohwan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
